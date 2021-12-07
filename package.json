@@ -1,0 +1,30 @@
+{
+  "name": "fullstack-open-9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ts-node": "ts-node",
+    "multiply": "ts-node file.ts",
+    "bmi": "ts-node -- bmiCalculator.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmitFikler/fullstack-open-9.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmitFikler/fullstack-open-9/issues"
+  },
+  "homepage": "https://github.com/AmitFikler/fullstack-open-9#readme",
+  "devDependencies": {
+    "@types/node": "^16.11.12",
+    "prettier": "^2.5.1",
+    "ts-node": "^10.4.0",
+    "tslib": "^2.3.1",
+    "typescript": "^4.5.2"
+  }
+}
